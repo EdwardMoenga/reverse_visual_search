@@ -1,7 +1,7 @@
 <h1>REVERSE IMAGE SEARCH</h1>
 <h2>The dataset</h2>
 <p>To get the images needed for annotation we <b>web scraped</b> product pictures from <b>amazon</b></p>
-<img src="https://github.com/vpNjit/Reverse_Visual_Search/blob/main/ris/ris1.png">
+<img src="https://github.com/EdwardMoenga/reverse_visual_search/blob/main/ris/ris1.png">
 
 <h2>Generate inference file</h2>
 <p>
@@ -30,12 +30,12 @@
 
 <h2>Results:</h2>
 <p>
-	<img src="https://github.com/vpNjit/Reverse_Visual_Search/blob/main/ris/ris2.png"><br>
-	<img src="https://github.com/vpNjit/Reverse_Visual_Search/blob/main/ris/ris3.png"><br>
-	<img src="https://github.com/vpNjit/Reverse_Visual_Search/blob/main/ris/ris4.png"><br>
-	<img src="https://github.com/vpNjit/Reverse_Visual_Search/blob/main/ris/ris5.png"><br>
-	<img src="https://github.com/vpNjit/Reverse_Visual_Search/blob/main/ris/ris6.png"><br>
-	<img src="https://github.com/vpNjit/Reverse_Visual_Search/blob/main/ris/ris7.png"><br>
-	<img src="https://github.com/vpNjit/Reverse_Visual_Search/blob/main/ris/ris8.png"><br>
-	<img src="https://github.com/vpNjit/Reverse_Visual_Search/blob/main/ris/ris9.png"><br>
+	<img src="https://github.com/EdwardMoenga/reverse_visual_search/blob/main/ris/ris2.png"><br>
+	<img src="https://github.com/EdwardMoenga/reverse_visual_search/blob/main/ris/ris3.png"><br>
+	<img src="https://github.com/EdwardMoenga/reverse_visual_search/blob/main/ris/ris4.png"><br>
+	<img src="https://github.com/EdwardMoenga/reverse_visual_search/blob/main/ris/ris5.png"><br>
+	<img src="https://github.com/EdwardMoenga/reverse_visual_search/blob/main/ris/ris6.png"><br>
+	<img src="https://github.com/EdwardMoenga/reverse_visual_search/blob/main/ris/ris7.png"><br>
+	<img src="https://github.com/EdwardMoenga/reverse_visual_search/blob/main/ris/ris8.png"><br>
+	<img src="https://github.com/EdwardMoenga/reverse_visual_search/blob/main/ris/ris9.png"><br>
 </p>
